@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/04 19:40:10.000.557,=C:\Users\Unipar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 19:42:00.000.640,D:\Delphi\Projeto2018\untPrincipal.dfm=C:\Users\Unipar\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/06/04 19:42:00.000.640,D:\Delphi\Projeto2018\untPrincipal.pas=C:\Users\Unipar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 19:42:24.000.878,D:\Delphi\Projeto2018\Projeto2018.dproj=C:\Users\Unipar\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/06/04 19:48:54.000.292,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 19:49:11.000.251,D:\Delphi\Projeto2018\untDM.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/06/04 19:49:11.000.251,D:\Delphi\Projeto2018\untDM.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 20:03:17.000.815,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 20:03:24.000.123,D:\Delphi\Projeto2018\untCidade.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/06/04 20:03:24.000.123,D:\Delphi\Projeto2018\untCidade.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 19:16:26.000.146,D:\Delphi\Projeto2018\untCidade.pas=D:\Delphi\Projeto2018\untCadPadrao.pas</Transaction>
+    <Transaction>2018/07/23 19:16:26.000.146,D:\Delphi\Projeto2018\untCidade.dfm=D:\Delphi\Projeto2018\untCadPadrao.dfm</Transaction>
+    <Transaction>2018/07/23 19:17:46.000.163,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 19:17:53.000.863,D:\Delphi\Projeto2018\Unit1.pas=D:\Delphi\Projeto2018\uCadCidade.pas</Transaction>
+    <Transaction>2018/07/23 19:17:53.000.863,D:\Delphi\Projeto2018\Unit1.dfm=D:\Delphi\Projeto2018\uCadCidade.dfm</Transaction>
+    <Transaction>2018/07/23 19:19:06.000.173,D:\Delphi\Projeto2018\uCadCidade.pas=</Transaction>
+    <Transaction>2018/07/23 19:26:40.000.554,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 19:27:28.000.914,D:\Delphi\Projeto2018\Unit1.pas=D:\Delphi\Projeto2018\untDM.pas</Transaction>
+    <Transaction>2018/07/23 19:27:28.000.914,D:\Delphi\Projeto2018\Unit1.dfm=D:\Delphi\Projeto2018\untDM.dfm</Transaction>
+    <Transaction>2018/07/23 19:37:01.000.935,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/23 19:37:12.000.486,D:\Delphi\Projeto2018\Unit1.pas=D:\Delphi\Projeto2018\untCidade.pas</Transaction>
+    <Transaction>2018/07/23 19:37:12.000.486,D:\Delphi\Projeto2018\Unit1.dfm=D:\Delphi\Projeto2018\untCidade.dfm</Transaction>
+    <Transaction>2018/07/30 19:35:03.000.406,D:\Delphi\Projeto2018\untCadPadrao2.dfm=D:\Delphi\Projeto2018\untCadPadrao.dfm</Transaction>
+    <Transaction>2018/07/30 19:35:03.000.406,D:\Delphi\Projeto2018\untCadPadrao2.pas=D:\Delphi\Projeto2018\untCadPadrao.pas</Transaction>
+    <Transaction>2018/07/30 19:52:33.000.424,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/30 19:53:23.000.989,D:\Delphi\Projeto2018\untCadPessoa.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/30 19:53:23.000.989,D:\Delphi\Projeto2018\untCadPessoa.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/07/30 21:00:41.000.473,=D:\Delphi\Projeto2018\untCadPadrao.pas</Transaction>
+    <Transaction>2018/07/30 21:10:07.000.083,D:\Delphi\Projeto2018\untCadPessoa.pas=</Transaction>
+    <Transaction>2018/07/30 21:25:04.000.011,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/07/30 21:25:18.000.649,D:\Delphi\Projeto2018\untPessoa.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/07/30 21:25:18.000.649,D:\Delphi\Projeto2018\untPessoa.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/13 20:39:57.000.635,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 19:52:38.000.880,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 19:53:03.000.679,D:\Delphi\Projeto2018\untProduto.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 19:53:03.000.679,D:\Delphi\Projeto2018\untProduto.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/08/20 20:27:04.000.626,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/20 20:28:22.000.368,D:\Delphi\Projeto2018\untPesqProduto.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+    <Transaction>2018/08/20 20:28:22.000.368,D:\Delphi\Projeto2018\untPesqProduto.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/08/27 20:25:02.000.189,D:\Delphi\Projeto2018\untPesqProduto.pas=D:\Delphi\Projeto2018\untPesqGrupo.pas</Transaction>
+    <Transaction>2018/08/27 20:25:02.000.189,D:\Delphi\Projeto2018\untPesqProduto.dfm=D:\Delphi\Projeto2018\untPesqGrupo.dfm</Transaction>
+    <Transaction>2018/08/27 21:12:01.000.405,=D:\Delphi\Projeto2018\untPesqProduto.pas</Transaction>
+    <Transaction>2018/09/03 19:33:36.136,=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 19:38:13.286,D:\Delphi\Projeto2018\untCompra.pas=D:\Delphi\Projeto2018\Unit1.pas</Transaction>
+    <Transaction>2018/09/03 19:38:13.286,D:\Delphi\Projeto2018\untCompra.dfm=D:\Delphi\Projeto2018\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
